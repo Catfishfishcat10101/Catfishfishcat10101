@@ -1,5 +1,5 @@
 Hello!
-  For starters, I'm currently studing as a Full Stack React Developer. I've been working on quite a few projects for means of passive income. My website https://www.hacking10101.com. (Not launched yet) I also hold down a full time job cooking, and a father to a beautiful daughter.
+  For starters, I'm currently studing as a Full Stack React Developer. I've been working on quite a few projects for means of passive income. My website https://www.hacking10101.com. (Not launched yet) I hold down a full time job cooking, and also a father to a beautiful 2 year old daughter.
 
 <!--
 **Catfishfishcat10101/Catfishfishcat10101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

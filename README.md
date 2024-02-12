@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Catfishfishcat10101?tab=repositories](https://github.com/Catfishfishcat10101?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.facebook.com/hacking10101](https://www.facebook.com/hacking10101)
+- 📫 How to reach me **catfishfishcat10101@gmail.com | 573-364-3481**
 
-- 📫 How to reach me **catfishfishcat10101@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning complex problems into professional code solutions, and my favorite challenge so far has been creating dynamic, responsive web applications using React**
+- ⚡ Fun fact **I enjoy turning complex problems into professional and functional code. So far my favorite challenge has been creating dynamic and responsive websites for a variety of buisnesses.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

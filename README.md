@@ -1,30 +1,92 @@
-<h1 align="center">Hello there! I am William Johnson</h1>
-<h3 align="center">A Full Stack React Developer from Missouri</h3>
+<!--
+  GitHub Profile README for William Johnson (Catfishfishcat10101)
+  - Clean, legible, and fully dynamic.
+  - Non-essential comments kept for your future edits.
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=catfishfishcat10101&label=Profile%20views&color=0e75b6&style=flat" alt="catfishfishcat10101" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=catfishfishcat10101" alt="catfishfishcat10101" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Catfishfishcat10101?tab=repositories](https://github.com/Catfishfishcat10101?tab=repositories)
-
-- 📫 How to reach me **catfishfishcat10101@gmail.com | 573-364-3481**
-
-- ⚡ Fun fact **I enjoy turning complex problems into professional and functional code. So far my favorite challenge has been creating dynamic and responsive websites for a variety of buisnesses.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/catfishfishcat10101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/catfishfishcat10101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/william-billy-johnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/william-billy-johnson" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22161354/william-johnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22161354/william-johnson" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/catfishfishcat1991/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/catfishfishcat1991/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/catfishfishcat11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/catfishfishcat11" height="30" width="40" /></a>
+<!-- Hero -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=600&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+William+Johnson+%28Full-Stack+Dev%29;React+%7C+Redux+%7C+Vite+%7C+Tailwind;I+build+polished+UIs%2C+fast+APIs%2C+and+quirky+side-projects+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<!-- Quick badges -->
+<p align="center">
+  <a href="https://github.com/Catfishfishcat10101"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Catfishfishcat10101?style=flat&label=Followers"></a>
+  <a href="https://github.com/Catfishfishcat10101?tab=repositories"><img alt="Public Repos" src="https://img.shields.io/badge/Public_Repos-Count_on_Profile-blue"></a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Catfishfishcat10101.profile"><img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Catfishfishcat10101.profile"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=catfishfishcat10101&show_icons=true&locale=en&layout=compact" alt="catfishfishcat10101" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=catfishfishcat10101&show_icons=true&locale=en" alt="catfishfishcat10101" /></p>
+## 🔭 What I’m building right now
+- **Doggerz** – a virtual-pet dog simulator (React + Redux Toolkit + Tailwind + sprite sheets)
+- **Rippin-Lips** – fishing forecast / lure picker with solunar + barometric logic
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catfishfishcat10101&" alt="catfishfishcat10101" /></p>
+> I love shipping **fast, responsive UIs** and practical tools with clean code and clear docs.
+
+---
+
+## 🧰 Tech I use daily
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=white">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JS-ES2023-F7DF1E.svg?logo=javascript&logoColor=000">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC.svg?logo=tailwindcss&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=000">
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
+</p>
+
+---
+
+## 📊 Live Profile Metrics (auto-generated)
+> This panel regenerates daily via GitHub Actions.
+
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics for Catfishfishcat10101" />
+</p>
+
+---
+
+## 📈 Always-fresh stat cards
+<p>
+  <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catfishfishcat10101&layout=compact&hide_border=true&langs_count=8" />
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Catfishfishcat10101&show_icons=true&hide_border=true&count_private=true" />
+</p>
+
+<p>
+  <img height="165" alt="Streak" src="https://streak-stats.demolab.com?user=Catfishfishcat10101&hide_border=true" />
+  <img height="165" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Catfishfishcat10101&theme=flat&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+<!-- Replace repo names/links as needed -->
+<a href="https://github.com/Catfishfishcat10101/doggerz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Catfishfishcat10101&repo=doggerz&hide_border=true" />
+</a>
+<a href="https://github.com/Catfishfishcat10101/rippin-lips">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Catfishfishcat10101&repo=rippin-lips&hide_border=true" />
+</a>
+
+---
+
+## 🧠 Design/Engineering Notes (quick hits)
+- I prefer **small, composable components** and **predictable state** (RTK).
+- Accessibility and responsive layout first; **ship with sensible motion**.
+- Production dev: **Vite + ESLint + Prettier + CI checks**.
+
+<details>
+  <summary>Click for a short “About Me”</summary>
+  <br/>
+  I'm William—self-taught full-stack dev. I like building tools that people actually use,
+  and polishing the edges until the UX feels effortless.
+</details>
+
+---
+
+## 🤝 Let’s collaborate
+If you’ve got an idea that needs slick UI, real-time data, or just brute-force shipping:
+**open an issue, or DM me on GitHub.**
